@@ -2,13 +2,13 @@
 
 ## Synopsis
 
-~~Official~~ Amazon Advertising API PHP client library.
+Forked version of Amazon Advertising API PHP client library.
 
-This repository has been deprecated and will no longer receive updates.
+This repository has no guarantee of maintanance and should not be addressed as a solution for any Amazon related subjects
 
 ## Requirements
 
-PHP >= 5.3.0<br/>
+PHP >= 7.1<br/>
 cURL >= 7.18
 
 ## Documentation
